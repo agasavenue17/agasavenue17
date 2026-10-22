@@ -1,8 +1,8 @@
-# Hey, I'm Agas
+# Hey, I'm Avenue
 
-I spend most of my time looking for security bugs — in web apps, APIs, and smart contracts, whatever the chain. If a program has a bounty page and pays for valid reports, I'm probably reading its scope.
+I spend most of my time looking for security bugs in web apps, APIs, and smart contracts, whatever the chain. If a program has a bounty page and pays for valid reports, I'm probably reading its scope.
 
-The web3 side is where I dig deepest: bridges, perps, lending markets. I like the parts where money moves — margin, liquidations, funding, oracles — because that's where the expensive bugs hide. On web2 it's the usual suspects done properly: broken access control, auth issues, logic flaws that scanners walk right past.
+The web3 side is where I dig deepest: bridges, perps, lending markets. I like the parts where money moves margin, liquidations, funding, oracles because that's where the expensive bugs hide. On web2 it's the usual suspects done properly: broken access control, auth issues, logic flaws that scanners walk right past.
 
 Every report I send comes with a working proof of concept. If I can't reproduce it, it doesn't get submitted.
 
@@ -20,4 +20,6 @@ Solidity and Foundry for contracts, Burp for web, and a lot of fork testing in b
 
 ## Say hi
 
-Built something and want a second pair of eyes on it? Open an issue here or find me on X.
+Built something and want a second pair of eyes on it? Open an issue here or find me on X or contact by email.
+@agasavenue17
+hallo@irsavenue.web.id
