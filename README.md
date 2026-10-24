@@ -1,6 +1,6 @@
 # Hey, I'm Avenue
 
-I spend most of my time looking for security bugs in web apps, APIs, and smart contracts, whatever the chain. If a program has a bounty page and pays for valid reports, I'm probably reading its scope.
+I spend most of my time looking for security bugs in web apps, APIs, and smart contracts, whatever the chain.
 
 The web3 side is where I dig deepest: bridges, perps, lending markets. I like the parts where money moves margin, liquidations, funding, oracles because that's where the expensive bugs hide. On web2 it's the usual suspects done properly: broken access control, auth issues, logic flaws that scanners walk right past.
 
